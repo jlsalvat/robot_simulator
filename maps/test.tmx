@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="6" height="7" tilewidth="125" tileheight="125" infinite="0" nextlayerid="5" nextobjectid="6">
+ <tileset firstgid="1" name="sprite_robot" tilewidth="125" tileheight="125" tilecount="48" columns="8">
+  <image source="../images/sprite_robot.png" width="1000" height="750"/>
+ </tileset>
+ <layer id="1" name="Calque de Tuiles 1" width="6" height="7">
+  <data encoding="csv">
+0,0,0,0,0,0,
+0,3,3,3,5,0,
+0,7,11,11,13,0,
+0,15,0,0,0,0,
+0,23,0,0,0,0,
+0,31,3,3,3,0,
+0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="debut">
+  <object id="1" x="690.909" y="633.333">
+   <polyline points="0,0 -48.4848,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="fin">
+  <object id="2" x="78.7879" y="84.8485" width="15.1515" height="84.8485"/>
+ </objectgroup>
+ <objectgroup id="4" name="tracer">
+  <object id="3" x="275.758" y="587.879" width="21.2121" height="24.2424">
+   <ellipse/>
+  </object>
+  <object id="4" x="157.576" y="342.424" width="18.1818" height="27.2727">
+   <ellipse/>
+  </object>
+  <object id="5" x="448.485" y="90.9091" width="18.1818" height="27.2727">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,150 @@
+﻿  AnimatedCoins.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\animatedcoins.h(11): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  Capteurs.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\capteurs.cpp(19): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\capteurs.cpp(20): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\capteurs.cpp(28): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\capteurs.cpp(53): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\capteurs.cpp(96): warning C4244: 'initialisation' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=float
+          ]
+  Common.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Font.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Fps.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Game.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\animatedcoins.h(11): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(23): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(24): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(25): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(26): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(27): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  Graphics.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\graphics.cpp(55): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\graphics.cpp(56): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Input.cpp
+  LTexture.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  MapRobot.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  MapShapes.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\mapshapes.cpp(176): warning C4018: '<' : incompatibilité signed/unsigned
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\mapshapes.cpp(177): warning C4018: '<' : incompatibilité signed/unsigned
+  Parameters.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Robot.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(23): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(24): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(25): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(26): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(27): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(34): warning C4305: '=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(35): warning C4305: '=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(37): warning C4305: '=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(39): warning C4244: 'argument' : conversion de '_Rep' en 'unsigned int', perte possible de données
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(96): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(116): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(120): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(125): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.cpp(126): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  SDL.cpp
+  Shape.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.cpp(62): warning C4101: 'p' : variable locale non référencée
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.cpp(351): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.cpp(389): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.cpp(502): warning C4244: 'return' : conversion de 'int' en 'const float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.cpp(546): warning C4244: 'return' : conversion de 'int' en 'const float', perte possible de données
+  Sprite.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  SpriteAnimated.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\spriteanimated.cpp(29): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Text.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  TileMap.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(85): warning C4101: 'width_file' : variable locale non référencée
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(85): warning C4101: 'height_file' : variable locale non référencée
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(106): warning C4018: '<' : incompatibilité signed/unsigned
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(108): warning C4018: '<' : incompatibilité signed/unsigned
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(204): warning C4018: '<' : incompatibilité signed/unsigned
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(205): warning C4018: '<' : incompatibilité signed/unsigned
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(253): warning C4101: 'size_tmp' : variable locale non référencée
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(331): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\tilemap.cpp(332): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Timer.cpp
+  Génération de code en cours...
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\utils.h(24): warning C4715: 'Utils::getDirection' : les chemins de contrôle ne retournent pas tous une valeur
+  Compilation en cours...
+  tinyxml2.cpp
+  test5_game_suivi1.cpp
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(11): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\parameters.h(12): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(507): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\shape.h(508): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\animatedcoins.h(11): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(23): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(24): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(25): warning C4305: '+=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(26): warning C4305: '-=' : troncation de 'double' à 'float'
+f:\documents\mega\iut_courant\er1\2020-2021\robot\projet_vs\robot\src_cpp\robot.h(27): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  test.vcxproj -> F:\Documents\MEGA\iut_courant\er1\2020-2021\robot\projet_VS\robot\x64\Debug\test.exe
